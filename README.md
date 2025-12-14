@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a Web Development student with a strong interest in learning new technologies and solving problems through clean and efficient code. I mainly work with React.js, HTML, CSS, and JavaScript, which I use to build modern, responsive, and user-focused web applications. In addition, I am continuously exploring other programming languages and tools to broaden my technical skills and improve my overall development practices. I am motivated, curious, and committed to continuous improvement in the field of web development.
 
 <!--
 **moaizelkacimi-web/moaizelkacimi-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
